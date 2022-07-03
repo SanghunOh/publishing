@@ -1,5 +1,9 @@
 ## exercise cases
-website : https://sanghunoh.github.io/publishing/. 
++ cases 
+  + https://sanghunoh.github.io/publishing/cases/beginner_html_site_styled.html
+
++ exercise
+  + https://sanghunoh.github.io/publishing/codes/htmls/index.html
 
 |caterogy|title|URL | code|reference|
 |--|--|--|--|--|
